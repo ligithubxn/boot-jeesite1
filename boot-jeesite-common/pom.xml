@@ -34,7 +34,7 @@
         <guava.version>17.0</guava.version>
         <xstream.version>1.4.7</xstream.version>
         <dozer.version>5.5.1</dozer.version>
-        <poi.version>3.9</poi.version>
+        <poi.version>4.1.1</poi.version>
 
 
         <!-- jdbc driver setting -->
